@@ -3,8 +3,8 @@
  "description": "Avenida Europa, 110 - Jardim Europa, São Paulo",
  "name": "Seres - Tour Virtual 360°",
  "display": "fullscreen",
- "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF",
+ "background_color": "#FF9966",
+ "theme_color": "#FF9966",
  "icons": [
   {
    "type": "image/png",
